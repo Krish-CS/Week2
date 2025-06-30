@@ -61,4 +61,5 @@ Enhance the water quality prediction model with:
 - **Type:** AICTE Virtual Internship
 - **Platform:** Edunet Foundation
 - **Sponsored by:** Shell
+- **Week:** Week - 2
 - **Month:** June 2025
