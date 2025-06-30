@@ -42,6 +42,7 @@ Enhance the water quality prediction model with:
 ## 📁 Files Included
 
 - `Water_Quality_Prediction.ipynb` – Enhanced model with plots
+- https://github.com/Krish-CS/Week2/blob/main/Water%20Quality%20Prediction.ipynb
 - `pollution_model.pkl` – Updated trained model
 - `model_columns.pkl` – Encoded input structure
 - `data/water_quality.csv` – Dataset
